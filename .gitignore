@@ -1,0 +1,11 @@
+*
+!.gitignore
+
+!*.tex
+!*.bib
+!*.bst
+!*.csf
+!*.png
+
+!/img
+!/img/*
